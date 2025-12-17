@@ -130,3 +130,25 @@ const detailFilmu = document.querySelector('#detail-filmu')
 detailFilmu.querySelector('.card-title').textContent = filmData.nazev
 detailFilmu.querySelector('.card-text').textContent = filmData.popis
 detailFilmu.querySelector('img').src = filmData.plakat.url
+
+
+// formular pro poznamku k filmu
+const noteForm = detailFilmu.querySelector('#note-form');
+
+noteForm.addEventListener('submit', (event) => {
+
+  event.preventDefault();
+
+  const msgInput = noteForm.querySelector('#message-input');
+  const checkbox = noteForm.querySelector("#terms-checkbox");
+
+  if (!msgInput.value) {
+	msgInput.classList.add('is-invalid');
+	msgInput.focus();
+  } else if (!checkbox.checked) {
+	checkbox.classList.add('is-invalid');
+	checkbox.focus();
+  } else {
+	noteForm.innerHTML = `<p class="card-text">${msgInput.value}</p>`;
+  }
+});
