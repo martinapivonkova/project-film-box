@@ -120,3 +120,13 @@ filmy.push({
 		premiera: '2022-12-24',
 
 })
+
+const filmId = window.location.hash.slice(1)
+
+const filmData = filmy.find((film) => film.id === filmId)
+
+const detailFilmu = document.querySelector('#detail-filmu')
+
+detailFilmu.querySelector('.card-title').textContent = filmData.nazev
+detailFilmu.querySelector('.card-text').textContent = filmData.popis
+detailFilmu.querySelector('img').src = filmData.plakat.url
