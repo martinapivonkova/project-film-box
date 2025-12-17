@@ -104,3 +104,19 @@ const filmy = [
 		premiera: '2022-12-24',
 	},
 ]
+
+// jakoze seznam v kodu nemam..
+filmy.push({
+	id: 'nejvetsi-showman',
+		nazev: 'Největší showman',
+		plakat: {
+			url: 'https://image.pmgstatic.com/cache/resized/w663/files/images/film/posters/162/228/162228270_13c2fb.jpg',
+			sirka: 420,
+			vyska: 592,
+		},
+		ochutnavka: 'Muzikál o vizionáři P. T. Barnumovi',
+		popis:
+			'Phineas Taylor Barnum (Hugh Jackman) je vizionář, jehož upřímné nadšení je naprosto nakažlivé. A to i v časech, kdy jeho nezlomný optimismus a energie jsou jediným bohatstvím, které zrovna má k dispozici. Barnum začíná svou životní cestu vedoucí až k hvězdnému úspěchu s naprosto prázdnou kapsou, za to však s hlavou plnou fantastických nápadů. Díky nim vytvoří a postupně sestaví fascinující show zaplněnou úžasnými žongléry, tanečníky, akrobaty, vousatými zpěvačkami, nejsilnějšími, nejmenšími i nejvyššími muži. Z jeho představení se navzdory mnohým předsudkům stává celosvětová senzace. A Barnum úspěch své show dokáže náležitě podpořit pomocí do té doby nevídané reklamní kampaně, která mu vyslouží označení „princ humbuků“ a jeho jméno se stává synonymem pro pořádně nafouknutou propagaci. (csfd.cz, CinemArt)',
+		premiera: '2022-12-24',
+
+})
