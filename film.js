@@ -62,7 +62,7 @@ const filmy = [
 		ochutnavka: 'Česká komedie.',
 		popis:
 			'Paní Zahrádková (Tereza Voříšková) s manželem (Vojta Kotek) idealisticky chtějí, aby společnými silami dům zachránili. Novomanželé Bernáškovi (Jiří Černý, Maria Sawa) se s nadšením připojují. Paní Roubíčková (Klára Melíšková) pedantsky kontroluje řádný průběh schůze. Paní Horvátová (Dagmar Havlová) všechno iniciativně komentuje. Naivní pan Švec (David Novotný) zastupuje svojí maminku. Paní Procházková (Pavla Tomicová) s panem Novákem (Ondřej Malý) hledá způsoby jak zhodnotit svůj majetek. Pan Nitranský (Andrej Polák) touží po půdě v domě a pan Kubát (Jiří Lábus) důsledně sabotuje jakékoliv rozhodnutí. A v pozadí číhají bratři Čermákovi (Kryštof Hádek, Stanislav Majer), jen starý pan profesor Sokol (Ladislav Trojan) zatím nic nekomentuje… (csfd.cz, CinemArt)',
-		premiera: '2019-11-19',
+		premiera: '2025-12-17',
 	},
 	{
 		id: 'kimi',
@@ -75,7 +75,7 @@ const filmy = [
 		ochutnavka: 'Americký thriller o IT pracovnici s agorafobií.',
 		popis:
 			'Pracovnice IT oddělení trpící agorafobií najde nahrávku násilného trestného činu a nahlásí ji svým nadřízeným. Uvědomuje si však, že bude muset opustit svůj byt, aby mohl být zločin vyšetřen. (csfd.cz, HBO Max)',
-		premiera: '2022-02-10',
+		premiera: '2025-12-18',
 	},
 	{
 		id: 'petrolejove-lampy',
@@ -88,7 +88,7 @@ const filmy = [
 		ochutnavka: 'Sugestivní filmové drama podle románu Jaroslava Havlíčka.',
 		popis:
 			'Sugestivní filmové drama Petrolejové lampy natočil Juraj Herz podle stejnojmenného románu Jaroslava Havlíčka. Vypráví v něm tragický příběh stárnoucí dívky Štěpy, žijící na přelomu století v dusném prostředí českého maloměsta, v ovzduší nepochopení a předstíraných citů, přetvářky a falše. Štěpě jsou neustále matkou vnucováni adepti na ženění, kteří ovšem musejí pocházet z téhož okruhu jako ona. Štěpa je však jiná než ostatní dívky. Jakoby zasažena duchem emancipace vyslouží si pověst dívky volných mravů a ta přirozeně nápadníky z řad městské honorace odrazuje. Než by se stala starou pannou, provdá se za bratrance, zkrachovalého důstojníka. V den svatby ale ještě netuší, jaká strašlivá nemoc pronásleduje jejího ženicha... Pečlivě rekonstruované období secese v sobě tají osudové lidské trápení: stárnoucí dívka z rodiny maloměstské honorace se dočká svého štěstí, když se provdá na pohledného důstojníka. Netuší ovšem, že muž trpí zhoubnou pohlavní chorobu - s marnou obětavostí pak o něho pečuje, vystavena zlomyslnému posměchu svého okolí. Vynikající, stále sugestivní snímek Juraje Herze se opírá o procítěné, jemně odstíněné herecké výkony Ivy Janžurové a Petra Čepka. (csfd.cz, oficiální text distributora)',
-		premiera: '1971-10-01',
+		premiera: '2025-12-19',
 	},
 	{
 		id: 'krakonosovo-tajemstvi',
@@ -101,7 +101,7 @@ const filmy = [
 		ochutnavka: 'Česká vánoční pohádka z Krkonoš.',
 		popis:
 			'Na zámek v podhůří Krkonoš přijíždí jeho nový majitel Štěpán se svojí snoubenkou, krásnou komtesou Blankou, a mladším bratrem Adamem. Cestou kočár nešťastně srazí kolemjdoucí dívku, Adam jí pomůže a ona se do něj zamiluje. Na zámku Adam objeví starou vlašskou knihu, která by měla obsahovat cestu k pokladům. Tajemné značky vlašské knihy však nedokáže vyluštit ani národopisec Jiráček, který v kraji sbírá pověsti a nevychází z údivu nad tím, že zdejší lidé stále věří v Krakonoše. Na zámku se objeví záhadný cizinec a nabídne Štěpánovi, že jej k pokladu za určitých podmínek dovede. Výprava do hor může začít. Naplní se Liduščina láska k Adamovi? Jakou záhadu skrývá starý obraz na zámku Hůrka a co strašlivého se v horách kdysi odehrálo? A kdo je vlastně Krakonoš a jaké je jeho největší tajemství? (csfd.cz, Česká televize)',
-		premiera: '2022-12-24',
+		premiera: '2025-12-21',
 	},
 ]
 
@@ -117,7 +117,7 @@ filmy.push({
 		ochutnavka: 'Muzikál o vizionáři P. T. Barnumovi',
 		popis:
 			'Phineas Taylor Barnum (Hugh Jackman) je vizionář, jehož upřímné nadšení je naprosto nakažlivé. A to i v časech, kdy jeho nezlomný optimismus a energie jsou jediným bohatstvím, které zrovna má k dispozici. Barnum začíná svou životní cestu vedoucí až k hvězdnému úspěchu s naprosto prázdnou kapsou, za to však s hlavou plnou fantastických nápadů. Díky nim vytvoří a postupně sestaví fascinující show zaplněnou úžasnými žongléry, tanečníky, akrobaty, vousatými zpěvačkami, nejsilnějšími, nejmenšími i nejvyššími muži. Z jeho představení se navzdory mnohým předsudkům stává celosvětová senzace. A Barnum úspěch své show dokáže náležitě podpořit pomocí do té doby nevídané reklamní kampaně, která mu vyslouží označení „princ humbuků“ a jeho jméno se stává synonymem pro pořádně nafouknutou propagaci. (csfd.cz, CinemArt)',
-		premiera: '2022-12-24',
+		premiera: '2025-12-24',
 
 })
 
@@ -152,3 +152,26 @@ noteForm.addEventListener('submit', (event) => {
 	noteForm.innerHTML = `<p class="card-text">${msgInput.value}</p>`;
   }
 });
+
+
+// premiera
+const premElement = detailFilmu.querySelector('#premiera');
+const premiera = dayjs(filmData.premiera)
+const diff = premiera.diff(dayjs(dayjs().format('YYYY-MM-DD')), 'days')
+
+let dni = 'dny'				// pred 2 a vice dny, za 2-4 dny
+if (diff === -1) {
+	dni = 'dnem'			// pred 1 dnem
+} else if (diff === 1) {
+	dni = 'den'				// za 1 den
+} else if (diff >= 5) {
+	dni = 'dní'				// za 5 a vice dni
+}
+
+if (diff < 0) {
+	premElement.innerHTML = `Premiéra <strong>${premiera.format('D. M. YYYY')}</strong>, což bylo před ${diff * -1} ${dni}.`
+} else if (diff > 0) {
+	premElement.innerHTML = `Premiéra <strong>${premiera.format('D. M. YYYY')}</strong>, což je za ${diff} ${dni}.`
+} else {
+	premElement.innerHTML = `Premiéra <strong>${premiera.format('D. M. YYYY')}</strong>, což je dnes.`
+}
